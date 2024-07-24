@@ -1,0 +1,37 @@
+HTML:
+
+what is element
+what is tag
+what are types of tags
+types of elements.
+formatting tags
+all tags attributes and styles
+structure of html
+root element
+comments
+block level and inline
+paired and unpaired(have another names)
+moblile application and standalone application
+absolute and relative path(important)
+globel sever vs web server
+websites,webbrowser,webapplication(differences and definitions,  uses in daily life )
+definitions  of all tags and attributes and rules
+select and datalist difference
+autocomplete in forms.
+meta tag and content and description and attriburtes in it
+link attribute in head
+semantic(main,section,article,aside,footer,etc) and non semntic tags(div and span)
+Html vs Html5
+validations in html and html forms
+href vs source(src)
+what is link and href
+what are commands in html
+favicon 
+link tag and rel in link tag
+what are quotes in html
+lists and their attributes in html
+cellspacing and cellspanning
+meta tag in html and their attributes and values
+ci  vs cd
+hdfc methodologies
+
